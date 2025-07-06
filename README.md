@@ -60,10 +60,10 @@ Each visual is built on a separate tab named after the business question:
 - Includes quantity sold alongside revenue.
 
 ### 🔹 Question 3: Top 10 Customers by Revenue
-- *Sorted bar chart* showing top customers by total revenue.
+- *Clustered Column chart* showing top customers by total revenue.
 
 ### 🔹 Question 4: Product Demand by Country (Excluding UK)
-- *Map visual or bar chart* illustrating product demand across all countries.
+- *Map visual * illustrating product demand across all countries.
 - United Kingdom excluded to focus on expansion opportunities.
 
 ---
